@@ -1,0 +1,131 @@
+{
+    "version": "20240124",
+    "data": [
+        {
+            "id": "1",
+            "title": "360zip国际版",
+            "link": "https://www.360totalsecurity.com/zh-cn/360zip/",
+            "abbr": "360zip"
+        },
+        {
+            "id": "2",
+            "title": "360安全卫士极速版",
+            "link": "https://weishi.360.cn/jisu/",
+            "abbr": "360"
+        },
+        {
+            "id": "3",
+            "title": "Aida64硬件测试",
+            "link": "www.aida64.com/downloads",
+            "abbr": "aida64"
+        },
+        {
+            "id": "4",
+            "title": "Chrome浏览器",
+            "link": "google.cn/chrome",
+            "abbr": "chrome"
+        },
+        {
+            "id": "5",
+            "title": "CrystalDiskInfo硬盘检测",
+            "link": "crystalmark.info/en/software/crystaldiskinfo",
+            "abbr": "cdi"
+        },
+        {
+            "id": "6",
+            "title": "DiskGenius硬盘工具",
+            "link": "www.diskgenius.cn/download.php",
+            "abbr": "dg"
+        },
+        {
+            "id": "7",
+            "title": "Edge浏览器",
+            "link": "www.microsoft.com/zh-cn/edge/download",
+            "abbr": "edge"
+        },
+        {
+            "id": "8",
+            "title": "FurMark GPU测试",
+            "link": "geeks3d.com/furmark",
+            "abbr": "fm"
+        },
+        {
+            "id": "9",
+            "title": "Honeyview查看器",
+            "link": "www.bandisoft.com/honeyview",
+            "abbr": "honeyview"
+        },
+        {
+            "id": "10",
+            "title": "Potplayer播放器",
+            "link": "http://potplayer.tv/?lang=zh_CN",
+            "abbr": "potplayer"
+        },
+        {
+            "id": "11",
+            "title": "QQ",
+            "link": "im.qq.com/pcqq/index.shtml",
+            "abbr": "qq"
+        },
+        {
+            "id": "12",
+            "title": "VSCode",
+            "link": "code.visualstudio.com",
+            "abbr": "vscode"
+        },
+        {
+            "id": "13",
+            "title": "Visual Studio",
+            "link": "https://visualstudio.microsoft.com/zh-hans/vs/",
+            "abbr": "vs"
+        },
+        {
+            "id": "14",
+            "title": "WPS Office",
+            "link": "https://platform.wps.cn/",
+            "abbr": "wps"
+        },
+        {
+            "id": "15",
+            "title": "百度网盘",
+            "link": "https://pan.baidu.com/download",
+            "abbr": "bdwp.baidu"
+        },
+        {
+            "id": "16",
+            "title": "火绒安全软件",
+            "link": "https://www.huorong.cn/person5.html",
+            "abbr": "hr"
+        },
+        {
+            "id": "17",
+            "title": "搜狗输入法",
+            "link": "pinyin.sogou.com/windows/?r=mac&t=pinyin",
+            "abbr": "sg"
+        },
+        {
+            "id": "18",
+            "title": "微软运行库",
+            "link": "https://www.mefcl.com/aio-runtimepack/182",
+            "abbr": "lib"
+        },
+        {
+            "id": "19",
+            "title": "微信",
+            "link": "pc.weixin.qq.com",
+            "abbr": "wx.weixin"
+        },
+        {
+            "id": "20",
+            "title": "易语言5.95破解版",
+            "link": "http://bbs.wuyou.net/forum.php?mod=viewthread&tid=437303",
+            "abbr": "yyy.e.yiyuyan"
+        },
+        {
+            "id": "21",
+            "title": "易语言官网",
+            "link": "https://www.eyuyan.com/",
+            "abbr": "yyy.e.yiyuyan"
+        }
+    ]
+}
